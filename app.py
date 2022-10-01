@@ -91,6 +91,7 @@ st.markdown('''
 ## My Projects
 ''')
 txt4('Option Trading Analytical Platform', 'An interactive application for comparing various option chains and calculating the value of calls/puts using Black Scholes.', 'https://garrosgong-code-option-trading-an-option-trade-dashboard-qqa711.streamlitapp.com/')
+txt4('Interactive Financial Analysis Dashboard Application', 'An interactive application allows users to enter a company stock ticker and get financial ratios based on the company’s most recent financial data', 'https://garrosgong-code-financial-analysis-dashboard-app-pck8kl.streamlitapp.com/')
 txt4('Neural Style Transfer Application (PyTorch)', 'A programme that blends a content picture and a style image so the result appears like the content image but in the style of the style image.', 'https://github.com/garrosgong-code/Deep-Learning-with-PyTorch-Neural-Style-Transfer')
 
 #####################
