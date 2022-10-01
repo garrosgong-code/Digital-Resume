@@ -126,7 +126,7 @@ txt('**Credit and Financial Analyst**, Central 1 Credit Union (Contract Full-tim
 txt('**Adjunct Professor**, Centennial College (Contract Part-time), Canada',
 'Summer 2022')
 
-txt('**Associate**, Middle Office Operations*, Marret Asset Management Inc. (Permanent Full-time), Canada',
+txt('**Associate**, Middle Office Operations, Marret Asset Management Inc. (Permanent Full-time), Canada',
 '2020-2021')
 
 txt('**Corporate Financial Analyst**, Vinzan International (Permanent Full-time), Canada',
