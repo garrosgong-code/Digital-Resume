@@ -95,6 +95,7 @@ st.markdown('''
 txt4('Options Trading Analytical Platform', 'An interactive application for comparing various option chains and calculating the value of calls/puts using Black Scholes.', 'https://garroshub-option-trading-analytic-option-trade-dashboard-wd34zi.streamlitapp.com/')
 txt4('Interactive Financial Analysis Dashboard Application', 'An interactive application allows users to enter a company stock ticker and get financial ratios based on the company’s most recent financial data', 'https://garroshub-financial-analysis-dashboard-app-4xhsjz.streamlitapp.com/')
 txt4('Neural Style Transfer Application (PyTorch)', 'A program that blends a content picture and a style image so the result appears like the content image but in the style of the style image.', 'https://github.com/garroshub/Deep-Learning-with-PyTorch-Neural-Style-Transfer')
+txt4('Live Twitter Sentiment Analyzer', 'A web application for determining the sentiment labels of live tweets', 'https://garroshub-live-twitter-sentiment-analyzer-app-gfp1fr.streamlitapp.com/')
 
 #####################
 st.markdown('''
