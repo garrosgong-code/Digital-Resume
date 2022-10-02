@@ -168,8 +168,7 @@ st.markdown('''
 ## Contact Me
 ''')
 
-st.header(":mailbox: Contact Me!")
-
+st.header(":mailbox: Get In Touch With Me!")
 
 contact_form = """
 <form action="https://formsubmit.co/kuyigougou@gmail.com" method="POST">
