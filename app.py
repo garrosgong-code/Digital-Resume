@@ -93,7 +93,7 @@ st.markdown('''
 ## My Projects
 ''')
 txt4('Portfolio Optimizer (MPT)', 'A Modern Portfolio Theory based portfolio optimizer dashboard web app with Streamlit, from a user’s input stock tickers.', 'https://portfolio-optimizer.streamlit.app/')
-st.markdown("![Alt Text](https://github.com/garroshub/Portfolio_Optimizer_MPT/blob/main/home_po.gif)")
+st.markdown("![Alt Text](https://media.giphy.com/media/faw06NQRMYGzk8aqzn/giphy.gif)")
 txt4('Options Trading Analytical Platform', 'An interactive application for comparing various option chains and calculating the value of calls/puts using Black Scholes.', 'https://option-trading-calculator.streamlit.app/')
 txt4('Interactive Financial Analysis Dashboard Application', 'An interactive application allows users to enter a company stock ticker and get financial ratios based on the company’s most recent financial data', 'https://financial.streamlit.app/')
 txt4('Credit Card Fraud Detection', 'An End-to-end Machine Learning Project using classification algorithms and techniques to accurately detect if a credit card transaction is fraudulent or not.', 'https://fraud-detection.streamlit.app/')
