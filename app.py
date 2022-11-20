@@ -95,6 +95,7 @@ st.markdown('''
 txt4('Portfolio Optimizer (MPT)', 'A Modern Portfolio Theory based portfolio optimizer dashboard web app with Streamlit, from a user’s input stock tickers.', 'https://portfolio-optimizer.streamlit.app/')
 txt4('Options Trading Analytical Platform', 'An interactive application for comparing various option chains and calculating the value of calls/puts using Black Scholes.', 'https://option-trading-calculator.streamlit.app/')
 txt4('Interactive Financial Analysis Dashboard Application', 'An interactive application allows users to enter a company stock ticker and get financial ratios based on the company’s most recent financial data', 'https://financial.streamlit.app/')
+txt4('Credit Card Fraud Detection', 'An End-to-end Machine Learning Project using classification algorithms and techniques to accurately detect if a credit card transaction is fraudulent or not.', 'https://fraud-detection.streamlit.app/')
 txt4('Neural Style Transfer Application (PyTorch)', 'A program that blends a content picture and a style image so the result appears like the content image but in the style of the style image.', 'https://github.com/garroshub/Deep-Learning-with-PyTorch-Neural-Style-Transfer')
 
 #####################
