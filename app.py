@@ -102,7 +102,7 @@ txt4('Credit Card Fraud Detection', 'An End-to-end Machine Learning Project usin
 st.markdown("![Alt Text](https://media.giphy.com/media/IIDPJbt33hOxiAOjig/giphy.gif)")
 txt4('Sales Data Prediction', 'This app is a demonstration of how data solutions like data analysis and prediction can be made user-friendly.', 'https://sales-data.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/c6FG1WLvyDsH93twiT/giphy.gif)")
-txt4('Monte Carlo Cashflow Forceast', 'The app caculates a company valuation by making probabilistic projections about its future cash flows.', 'https://cashflow-forecast.streamlit.app/')
+txt4('Monte Carlo Cashflow Forecast', 'The app estimates a company valuation by making probabilistic projections about its future cash flows.', 'https://cashflow-forecast.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/PG8dUuULT7SYJHSyML/giphy.gif)")
 txt4('Neural Style Transfer (Pytorch)', 'Neural Style transfer is an optimization technique used to take a content and a style image and blend them together so the output image looks like the content image but painted in the style of the style image.', 'https://github.com/garroshub/Deep-Learning-with-PyTorch-Neural-Style-Transfer')
 
