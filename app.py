@@ -110,12 +110,16 @@ txt4('Neural Style Transfer (Pytorch)', 'Neural Style transfer is an optimizatio
 
 #####################
 st.markdown('''
-## My Writing Samples (analyst's reports/case study/market analysis)
+## My Writing Samples
 ''')
-st.write("Ontario Economic Briefing [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607059/7cbacc54ce295b01effe5f836cd81eaa.pdf?)")
-st.write("TELUS Annual Credit Review (2021) [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607787/eda7ec83ad88a117e2ec7a37dbfd7ad7.pdf?)")
-st.write("Case Study: Natural Gas and Its Role in The New Energy Dynamics [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607761/1817ac66e1d8af68b4e1f8736a89ebee.pdf?)")
-st.write("Understanding Provincial Greenhouse Gas Emission Reporting in Canada [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1606775/51d598ced7d0abe1a2a97c83b72f05f2.pdf?)")
+txt4('Ontario Economic Briefing')
+st.write("[Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607059/7cbacc54ce295b01effe5f836cd81eaa.pdf?)")
+txt4('TELUS Annual Credit Review (2021)')
+st.write("[Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607787/eda7ec83ad88a117e2ec7a37dbfd7ad7.pdf?)")
+txt4('Case Study: Natural Gas and Its Role in The New Energy Dynamics')
+st.write("[Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607761/1817ac66e1d8af68b4e1f8736a89ebee.pdf?)")
+txt4('Understanding Provincial Greenhouse Gas Emission Reporting in Canada')
+st.write("[Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1606775/51d598ced7d0abe1a2a97c83b72f05f2.pdf?)")
 
 #####################
 st.markdown('''
