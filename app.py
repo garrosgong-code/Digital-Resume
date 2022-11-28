@@ -107,6 +107,17 @@ st.markdown("![Alt Text](https://media.giphy.com/media/PG8dUuULT7SYJHSyML/giphy.
 txt4('Neural Style Transfer (Pytorch)', 'Neural Style transfer is an optimization technique used to take a content and a style image and blend them together so the output image looks like the content image but painted in the style of the style image.', 'https://github.com/garroshub/Deep-Learning-with-PyTorch-Neural-Style-Transfer')
 
 #####################
+
+#####################
+st.markdown('''
+## My Writing Samples (analyst's reports/case study/market analysis)
+''')
+st.write("Ontario Economic Briefing [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607059/7cbacc54ce295b01effe5f836cd81eaa.pdf?)")
+st.write("TELUS Annual Credit Review (2021) [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607787/eda7ec83ad88a117e2ec7a37dbfd7ad7.pdf?)")
+st.write("Case Study: Natural Gas and Its Role in The New Energy Dynamics [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607761/1817ac66e1d8af68b4e1f8736a89ebee.pdf?)")
+st.write("Understanding Provincial Greenhouse Gas Emission Reporting in Canada [Read More](https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1606775/51d598ced7d0abe1a2a97c83b72f05f2.pdf?)")
+
+#####################
 st.markdown('''
 ## Skills
 ''')
