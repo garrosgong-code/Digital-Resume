@@ -8,7 +8,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Zhiyu (Garros) Gong, M.Sc.
-##### *Resume* 
+##### *Financial Analytics Professional|Business Scientist|Ph.D.Candidate* 
 ''')
 
 image = Image.open('dp.png')
