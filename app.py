@@ -115,7 +115,6 @@ txt4('Neural Style Transfer (Pytorch)', 'Neural Style transfer is an optimizatio
 st.markdown('''
 ## My Writing Samples
 ''')
-txt4('Ontario Economic Briefing','A Market Analysis Report Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607059/7cbacc54ce295b01effe5f836cd81eaa.pdf?')
 txt4('TELUS Annual Credit Review (2021)','An In-Depth Financial Analysis Report Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607787/eda7ec83ad88a117e2ec7a37dbfd7ad7.pdf?')
 txt4('Case Study: Natural Gas and Its Role in The New Energy Dynamics','A Case Analysis Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607761/1817ac66e1d8af68b4e1f8736a89ebee.pdf?')
 txt4('Understanding Provincial Greenhouse Gas Emission Reporting in Canada','An ESG-Related Analysis Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1610954/51508621e41fa9dabeb11ce46b31dbf6.pdf?')
