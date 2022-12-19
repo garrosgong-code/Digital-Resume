@@ -95,18 +95,18 @@ def txt4(a, b, c):
 st.markdown('''
 ## My Projects
 ''')
-txt4('Portfolio Optimizer (MPT)', 'A Modern Portfolio Theory based portfolio optimizer dashboard web app with Streamlit, from a user’s input stock tickers.', 'https://portfolio-optimizer.streamlit.app/')
-st.markdown("![Alt Text](https://media.giphy.com/media/faw06NQRMYGzk8aqzn/giphy.gif)")
+txt4('ESG AI Analyisis(NLP)', 'A sample project that deploys cutting-edge NLP techniques to analyze a company ESG performance.', 'https://esg-ai-investment.streamlit.app/')
+st.markdown("![Alt Text](https://media.giphy.com/media/0Q5hrVPpIy6g2MOTke/giphy.gif)")
 txt4('Options Trading Analytical Platform', 'An interactive application for comparing various option chains and calculating the value of calls/puts using Black Scholes.', 'https://option.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/S2DQFsrHuMhv3oMRYP/giphy.gif)")
-txt4('Interactive Financial Analysis Dashboard Application', 'An interactive application allows users to enter a company stock ticker and get financial ratios based on the company’s most recent financial data', 'https://financial.streamlit.app/')
-st.markdown("![Alt Text](https://media.giphy.com/media/sp3BLtBUxLtyXhIb8H/giphy.gif)")
+txt4('Stock Price Predicition(Deep Learning)', 'An interactive application allows users to predict closing stock prices using Deep Learning models.' , 'https://stock-price-dp.streamlit.app/')
+st.markdown("![Alt Text](https://media.giphy.com/media/BGhC5HYDEa7D3NXTgi/giphy.gif)")
 txt4('Credit Card Fraud Detection', 'An End-to-end Machine Learning Project using classification algorithms and techniques to accurately detect if a credit card transaction is fraudulent or not.', 'https://fraud-detection.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/IIDPJbt33hOxiAOjig/giphy.gif)")
 txt4('Sales Data Prediction', 'This app is a demonstration of how data solutions like data analysis and prediction can be made user-friendly.', 'https://sales-data.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/c6FG1WLvyDsH93twiT/giphy.gif)")
-txt4('Monte Carlo Cashflow Forecast', 'The app estimates a company valuation by making probabilistic projections about its future cash flows.', 'https://cashflow-forecast.streamlit.app/')
-st.markdown("![Alt Text](https://media.giphy.com/media/PG8dUuULT7SYJHSyML/giphy.gif)")
+txt4('Bank Data Dashboard', 'This project envisions running an exploratory data analysis on the dataset and then building a web page to display all the results and relevant information about the bank clients.', 'https://banking-data.streamlit.app/')
+st.markdown("![Alt Text](https://media.giphy.com/media/ay9xj4ea8Jk8Upz8uV/giphy.gif)")
 
 #####################
 
