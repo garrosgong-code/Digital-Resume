@@ -101,7 +101,7 @@ txt4('Options Trading Analytical Platform', 'An interactive application for comp
 st.markdown("![Alt Text](https://media.giphy.com/media/S2DQFsrHuMhv3oMRYP/giphy.gif)")
 txt4('Stock Price Prediction(Deep Learning)', 'An interactive application allows users to predict closing stock prices using Deep Learning models.', 'https://stock-price-dp.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/BGhC5HYDEa7D3NXTgi/giphy.gif)")
-txt4('Credit Card Fraud Detection, 'An End-to-end Machine Learning Project using classification algorithms and techniques to accurately detect if a credit card transaction is fraudulent or not.', 'https://fraud-detection.streamlit.app/')
+txt4('Credit Card Fraud Detection', 'An End-to-end Machine Learning Project using classification algorithms and techniques to accurately detect if a credit card transaction is fraudulent or not.', 'https://fraud-detection.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/IIDPJbt33hOxiAOjig/giphy.gif)")
 txt4('Sales Data Prediction', 'This app is a demonstration of how data solutions like data analysis and prediction can be made user-friendly.', 'https://sales-data.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/c6FG1WLvyDsH93twiT/giphy.gif)")
