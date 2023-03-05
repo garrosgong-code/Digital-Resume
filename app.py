@@ -8,7 +8,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Zhiyu (Garros) Gong, M.Sc.
-##### *Financial Analytics Professional | Business Scientist | Ph.D.Candidate | CFA Level II Candidate* 
+##### *Investment Strategist | Business Scientist | Ph.D.Candidate * 
 ''')
 
 image = Image.open('dp.png')
@@ -16,7 +16,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Financial/Investment Analyst, Researcher and Analytics Consultant with exceptional research and analytical abilities in a data-oriented environment and a passion for decision sciences. 
+- Experienced invsetment strategist, Researcher and Analytics Consultant with exceptional research and analytical abilities in a data-oriented environment and a passion for economics policy analysis. 
 - Strong English communication and writing skills as demonstrated by extensive leadership experience in many automation and analytical tools development projects. 
 - Strong track record in prior academic experience with high distinct GPA and scholarship awards.
 ''')
@@ -139,7 +139,7 @@ txt('**Doctor of Philosophy** Management Sciences: Applied Operational Research,
 st.markdown('''
 - GPA: `4.0/4.0`
 - Status: `Part-time basis (open to full-time job opportunities)`
-- Research Areas `Financial Analytics`, `Social Media Analytics`, `Sustainability Analytics`.
+- Research Interests `Applied Econometrics`, `Economic Policy Analysis`, `Social Media Analytics`,`Financial Analytics`.
 - Supervisory: Supervised by `Dr. Stan Dimitrov`
 ''')
 
@@ -163,19 +163,22 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Credit and Financial Analyst**, Central 1 Credit Union (Contract Full-time), Canada',
-'2022-Present')
+txt('**Manager, Investment Strategy**, Scotiabank, Canada',
+'2023-Present')
 
-txt('**Adjunct Professor**, Centennial College (Contract Part-time), Canada',
+txt('**Credit and Financial Analyst**, Central 1 Credit Union, Canada',
+'2022-2023')
+
+txt('**Adjunct Professor**, Centennial College, Canada',
 'Summer 2022')
 
-txt('**Associate, Middle Office Operations**, Marret Asset Management Inc. (Permanent Full-time), Canada',
+txt('**Associate, Middle Office Operations**, Marret Asset Management Inc., Canada',
 '2020-2021')
 
-txt('**Corporate Financial Analyst**, Vinzan International (Permanent Full-time), Canada',
+txt('**Corporate Financial Analyst**, Vinzan International, Canada',
 '2018-2020')
 
-txt('**Ptivate Equity Analyst**, Adelaide Capital Investments (Contract Full-time), Canada',
+txt('**Ptivate Equity Analyst**, Adelaide Capital Investments, Canada',
 'Summer 2018')
 
 #####################
@@ -183,6 +186,7 @@ st.markdown('''
 ## Social Media
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/garros-gong/')
+txt2('Twitter', 'https://twitter.com/GarrosGong')
 txt2('GitHub', 'https://github.com/garroshub')
 
 #####################
