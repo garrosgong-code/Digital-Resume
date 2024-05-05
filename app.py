@@ -8,7 +8,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Zhiyu (Garros) Gong, M.Sc.
-##### *Investment Strategist | Business Scientist | Ph.D.Candidate * 
+##### * PhD Candidate; Investment Strategist; Economic Data Scientist * 
 ''')
 
 image = Image.open('dp.png')
@@ -99,24 +99,19 @@ txt4('ESG AI Analysis(NLP)', 'A sample project that deploys cutting-edge NLP tec
 st.markdown("![Alt Text](https://media.giphy.com/media/0Q5hrVPpIy6g2MOTke/giphy.gif)")
 txt4('Options Trading Analytical Platform', 'An interactive application for comparing various option chains and calculating the value of calls/puts using Black Scholes.', 'https://option.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/S2DQFsrHuMhv3oMRYP/giphy.gif)")
-txt4('Stock Price Prediction(Deep Learning)', 'An interactive application allows users to predict closing stock prices using Deep Learning models.', 'https://stock-price-dp.streamlit.app/')
+txt4('Modern Portfolio Optimizer)', 'This Streamlit app calculates an optimal investment portfolio based on a user-defined minimum required return and selection of funds.', 'https://modernportfolio.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/BGhC5HYDEa7D3NXTgi/giphy.gif)")
 txt4('Credit Card Fraud Detection', 'An End-to-end Machine Learning Project using classification algorithms and techniques to accurately detect if a credit card transaction is fraudulent or not.', 'https://fraud-detection.streamlit.app/')
 st.markdown("![Alt Text](https://media.giphy.com/media/IIDPJbt33hOxiAOjig/giphy.gif)")
-txt4('Sales Data Prediction', 'This app is a demonstration of how data solutions like data analysis and prediction can be made user-friendly.', 'https://sales-data.streamlit.app/')
-st.markdown("![Alt Text](https://media.giphy.com/media/c6FG1WLvyDsH93twiT/giphy.gif)")
-txt4('Bank Data Dashboard', 'This project envisions running an exploratory data analysis on the dataset and then building a web page to display all the results and relevant information about the bank clients.', 'https://banking-data.streamlit.app/')
-st.markdown("![Alt Text](https://media.giphy.com/media/ay9xj4ea8Jk8Upz8uV/giphy.gif)")
-
 #####################
 
 #####################
 st.markdown('''
-## My Writing Samples
+## My Publications
 ''')
-txt4('TELUS Annual Credit Review (2021)','An In-Depth Financial Analysis Report Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607787/eda7ec83ad88a117e2ec7a37dbfd7ad7.pdf?')
-txt4('Case Study: Natural Gas and Its Role in The New Energy Dynamics','A Case Analysis Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1607761/1817ac66e1d8af68b4e1f8736a89ebee.pdf?')
-txt4('Understanding Provincial Greenhouse Gas Emission Reporting in Canada','An ESG-Related Analysis Sample','https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1610954/51508621e41fa9dabeb11ce46b31dbf6.pdf?')
+txt4('Canada’s new Tech Talent Strategy aims to attract workers from around the world','theconversation.com/canadas-new-tech-talent-strategy-aims-to-attract-workers-from-around-the-world-208810')
+txt4('Increasing monopoly power poses a threat to Canada's post-pandemic economic recovery','ca.news.yahoo.com/increasing-monopoly-power-poses-threat-115705554.html?guccounter=1')
+txt4('For gig economy millennials, retirement is not that far off. Innovation will be key to making it work','www.thestar.com/business/for-gig-economy-millennials-retirement-is-not-that-far-off-innovation-will-be-key-to/article_71fe4910-c09b-593f-b0ec-3b6437592e5d.html')
 
 #####################
 st.markdown('''
