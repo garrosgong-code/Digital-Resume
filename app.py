@@ -110,7 +110,7 @@ st.markdown('''
 ## My Publications
 ''')
 txt4('Canada’s new Tech Talent Strategy aims to attract workers from around the world','theconversation.com/canadas-new-tech-talent-strategy-aims-to-attract-workers-from-around-the-world-208810')
-txt4('Increasing monopoly power poses a threat to Canada's post-pandemic economic recovery','ca.news.yahoo.com/increasing-monopoly-power-poses-threat-115705554.html?guccounter=1')
+txt4('Increasing monopoly power poses a threat to Canada post-pandemic economic recovery','ca.news.yahoo.com/increasing-monopoly-power-poses-threat-115705554.html?guccounter=1')
 txt4('For gig economy millennials, retirement is not that far off. Innovation will be key to making it work','www.thestar.com/business/for-gig-economy-millennials-retirement-is-not-that-far-off-innovation-will-be-key-to/article_71fe4910-c09b-593f-b0ec-3b6437592e5d.html')
 
 #####################
